@@ -1,4 +1,4 @@
-# game-learning-road
+# technical artist learning road
 share my game development self-learning trip
 
 Jun 12 2023
